@@ -1,0 +1,46 @@
+[
+  {
+    "id": "raiden-shogun",
+    "name": "Raiden Shogun",
+    "series": "Genshin Impact",
+    "rarity": 5,
+    "element": "Electro",
+    "weapon": "Polearm",
+    "role": "DPS / Support",
+    "image": "characters/raiden-shogun.jpg",
+    "description": "Replace this with your own character information."
+  },
+  {
+    "id": "furina",
+    "name": "Furina",
+    "series": "Genshin Impact",
+    "rarity": 5,
+    "element": "Hydro",
+    "weapon": "Sword",
+    "role": "Support",
+    "image": "characters/furina.jpg",
+    "description": "Replace this with your own character information."
+  },
+  {
+    "id": "arlecchino",
+    "name": "Arlecchino",
+    "series": "Genshin Impact",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "role": "DPS",
+    "image": "characters/arlecchino.jpg",
+    "description": "Replace this with your own character information."
+  },
+  {
+    "id": "hu-tao",
+    "name": "Hu Tao",
+    "series": "Genshin Impact",
+    "rarity": 5,
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "role": "DPS",
+    "image": "characters/hu-tao.jpg",
+    "description": "Replace this with your own character information."
+  }
+]
